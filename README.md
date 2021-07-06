@@ -13,16 +13,16 @@ You may call RPSEE a series.
 
 Entities
 --------
-*Founder and Owner*
+**Founder and Owner**
 
 Brian Ibrahim Qamardeen
 
 — Email: qeetell@gmail.COM - Concert (website) - qeetell.VIP
 
-*Director*
-1:
 
-Brian Ibrahim Qamardeen
+*Director*
+
+1: Brian Ibrahim Qamardeen
 
 — Email: qeetell@gmail.COM - Concert (website) - qeetell.VIP
 
